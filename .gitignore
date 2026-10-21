@@ -1,0 +1,11 @@
+# never commit data or model artefacts
+*.npz
+*.csv
+*.jsonl
+*.pkl
+*.pt
+*.ckpt
+data/mds_ed.csv
+cache/
+__pycache__/
+*.pyc
